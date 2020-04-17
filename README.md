@@ -1,3 +1,3 @@
-# Tensorflow 2.1
+# Tensorflow 2+
 
-Development and implementation of Depth Neural Networks with 2nd version of Tensorflow and Keras API
+Development and implementation of several Deep Neural Networks with 2nd version of Tensorflow and Keras API
